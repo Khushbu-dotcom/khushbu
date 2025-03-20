@@ -1,3 +1,3 @@
 # khushbu
-this is my first git repository
-author --khushbu singh
+This is my first git Repository.
+Author --khushbu singh
